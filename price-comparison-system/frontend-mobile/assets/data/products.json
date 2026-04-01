@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Pro Headphones",
+		"price": "199.99",
+		"icon_code": 58268
+	},
+	{
+		"name": "Smart Watch",
+		"price": 249.99,
+		"icon_code": 58711
+	},
+	{
+		"name": "Wireless Mouse",
+		"price": 49.99,
+		"icon_code": 58210
+	}
+]
