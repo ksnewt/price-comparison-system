@@ -1,4 +1,4 @@
-#!/Users/kalebnewton/Development/price-backend/venv/bin/python3
+#!/Users/kalebnewton/Development/price-comparison-system/backend-api/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
